@@ -1,0 +1,21 @@
+{
+    "type": "module",
+    "dependencies": {
+        "@raydium-io/raydium-sdk-v2": "^0.1.111-alpha",
+        "@solana/spl-token": "^0.4.9",
+        "@solana/web3.js": "^1.95.5",
+        "axios": "^1.7.9",
+        "bs58": "^6.0.0",
+        "node-fetch": "^3.3.2"
+    },
+    "name": "volume-bot",
+    "version": "1.0.0",
+    "main": "bot.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
